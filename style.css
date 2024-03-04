@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav .list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.125rem 5.19rem;
+  list-style: none;
+}
+
+nav .list .btn-busca {
+  display: flex;
+  align-items: center;
+}
+
+nav .list .cart {
+    height: 2.125rem;
+}
