@@ -4,6 +4,7 @@
 Este projeto consiste em um cardápio digital, onde o cliente pode consultar os produtos e fazer seu pedido, sendo redirecionado para o WhatsApp com toda a descrição do pedido realizado.
 
 Acesse o figma do projeto aqui:
+
 [![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)](https://www.figma.com/file/yvruSG0bADLF7cvdlFTPqz/CARD%C3%81PIO-DIGITAL---ADEGA-13-ALTA?type=design&node-id=1-2&mode=design&t=jZ07jdkeflD5LVMa-0)
 
 ## 🖥 Stacks
