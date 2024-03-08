@@ -2,6 +2,18 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Roboto;
+}
+
+/* body {
+  width: 430x;
+  height: 932px;;
+} */
+
+.container {
+  max-width: 1200px; /* Defina a largura máxima do contêiner para limitar a largura do conteúdo */
+  margin: 0 auto; /* Centralize o contêiner horizontalmente */
+  padding: 0 20px; /* Adicione algum espaço de preenchimento opcional nas laterais para espaçamento */
 }
 
 nav .list {
@@ -19,4 +31,42 @@ nav .list .btn-busca {
 
 nav .list .cart {
     height: 2.125rem;
+}
+
+.banner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: vw;
+  height: 8.25rem;
+  border: 1px solid #000;
+}
+
+.category-container{
+  width: vw;
+  height: 24px;
+  border: 1px solid #000;
+  margin-top: 1.44rem;
+}
+
+.category-container .categories{
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0.69rem;
+  list-style: none;
+}
+
+.line {
+  width: vw; /* Define a largura da linha */
+  height: 1px; /* Define a altura da linha */
+  background-color: black; /* Define a cor da linha */
+  margin-top: 1.44rem; /* Adiciona um espaço entre a linha e o próximo elemento */
+}
+
+.product-container {
+  display: flex;
+  width: vw;
+  height: 175px;
+  border: 1px solid #000;
+  margin: 1.43rem 2.94rem 1.43rem 2.94rem;
 }
